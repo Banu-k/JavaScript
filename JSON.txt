@@ -1,6 +1,0 @@
-{
-"Name" : "Banu",
-"Id" : 1,
-“Age” : 23,
-“Address” : “Chennai”
-}
